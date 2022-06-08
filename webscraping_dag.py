@@ -75,7 +75,6 @@ def run_webscraping():
             all_listings = soup.find_all("div", {"data-cy": "search.listing"})
 
             if len(all_listings) < 2:
-                print('Ostatnia strona to: ', page_no-1)
                 break
 
             all_listings = all_listings[1].find_all('li')
