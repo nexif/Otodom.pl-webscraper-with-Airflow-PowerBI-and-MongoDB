@@ -13,6 +13,7 @@
 
 ![Airflow](/img/airflow.png)
 
+# Pliki
 - get_data_for_PowerBI.py - zawiera skrypt pozwalający w łatwy sposób w PowerBI pobrać dane z bazy MongoDB
 - webscraping.py - skrypt odpowiedzialny za pobieranie ogłoszeń
 - werbscraping_dag.py - ten sam skrypt, zaimplementowany w formie DAGa w Airflow
