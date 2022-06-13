@@ -6,8 +6,8 @@
 
 # Raport w Power BI
 
-[Power BI](/img/powerbi.png)
+![Power BI](/img/powerbi.png)
 
 # DAG w Airflow
 
-[Airflow](/img/airflow.png)
+![Airflow](/img/airflow.png)
